@@ -1,4 +1,4 @@
-# ML Regression — CS6140 Machine Learning
+# ML Regression 
 
 Implementation of Linear, Quadratic, and Cubic Regression using two methods: **Closed-Form Solution** (Normal Equation) and **Gradient Descent** — from scratch using NumPy.
 
@@ -20,8 +20,6 @@ ML-Regression/
 ```
 
 ---
-
-## Assignment Overview
 
 ### Part 1 — Linear Regression (`linear_regression.py`)
 
